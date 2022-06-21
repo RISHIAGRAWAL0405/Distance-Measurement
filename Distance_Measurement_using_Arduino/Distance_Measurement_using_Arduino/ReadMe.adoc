@@ -33,13 +33,7 @@ Upload the code contained in this sketch on to your board
   ├── schematics.png      => (optional) an image of the required schematics
   ├── layout.png          => (optional) an image of the layout
   └── ReadMe.adoc         => this file
-....
-
-=== License
-This project is released under a {License} License.
-
-=== Contributing
-To contribute to this project please contact electronicsprojectshub <electronicsprojectshub@gmail.com>
+...
 
 === BOM
 Add the bill of the materials you need for this project.
